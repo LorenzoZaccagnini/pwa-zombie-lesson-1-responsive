@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.header{
+  width: 1000px;
+  background-color: red;
+}
+
+
+#items-list > li {
+  width: 1000px;
+  list-style-type: none;
+  background-color: green;
+  margin-top: 20px;
+}
+
+.item-img {
+  list-style-type: none;
+  background-color: green;
+}
+
+.item-name{
+}

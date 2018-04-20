@@ -3,13 +3,12 @@ body {
   color: white;
 }
 
-.header{
+.header {
   width: 1000px;
   background-color: red;
 }
 
-
-#items-list > li {
+#items-list>li {
   width: 1000px;
   list-style-type: none;
   background-color: green;
@@ -21,5 +20,4 @@ body {
   background-color: green;
 }
 
-.item-name{
-}
+.item-name {}

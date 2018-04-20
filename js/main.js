@@ -29,7 +29,7 @@ fillItemsHTML = () => {
 }
 
 /**
- * Create restaurant HTML.
+ * Spawn the items
  */
 createItemsHTML = (item) => {
   const li = document.createElement('li');

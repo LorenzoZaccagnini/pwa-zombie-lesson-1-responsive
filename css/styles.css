@@ -11,13 +11,15 @@ body {
 #items-list>li {
   width: 1000px;
   list-style-type: none;
-  background-color: green;
   margin-top: 20px;
 }
 
 .item-img {
-  list-style-type: none;
-  background-color: green;
+ 
 }
 
-.item-name {}
+.item-name {
+}
+
+.item-quantity {
+}

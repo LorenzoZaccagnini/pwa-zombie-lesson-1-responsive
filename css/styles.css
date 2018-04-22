@@ -11,6 +11,7 @@ body {
 #items-list>li {
   width: 1000px;
   list-style-type: none;
+  background-color: green;
   margin-top: 20px;
 }
 

@@ -15,7 +15,7 @@ body {
   width: 1000px;
   list-style-type: none;
   background-color: green;
-  margin-top: 20px;
+  margin: 5px;
 }
 
 .item-img {

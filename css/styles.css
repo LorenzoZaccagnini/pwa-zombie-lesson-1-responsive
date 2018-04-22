@@ -8,6 +8,9 @@ body {
   background-color: red;
 }
 
+#items-list {
+}
+
 #items-list>li {
   width: 1000px;
   list-style-type: none;

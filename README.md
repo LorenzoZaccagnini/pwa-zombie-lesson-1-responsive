@@ -10,7 +10,7 @@ In the new zombie era Internet works but not so well, so we need an app with off
 
 Our community is called “Blackwater Park”, like the amazing Opeth album, our website is not responsive and on smartphones and tablets is impossible to use, it’s your job to make it responsive!
 
-## Solution
+### Solution
 You can find the solution in the solution folder
 
 ## Author

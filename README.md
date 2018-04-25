@@ -6,9 +6,7 @@ The dead walk among us, only one bite and your become one them, the zombie outbr
 
 In the new zombie era Internet works but not so well, so we need an app with offline capabilities, an offline first app. The smartphones of our scavengers can be android, ios, big, small, fast or really slow devices, we can’t rely on native apps.
 
-## List of Lessons
-
-### [Lesson 1](https://medium.com/@lorenzozaccagnini/build-a-pwa-to-survive-the-zombie-apocalypse-part-1-48990bb9d4bf)
+## [Lesson 1](https://medium.com/@lorenzozaccagnini/build-a-pwa-to-survive-the-zombie-apocalypse-part-1-48990bb9d4bf)
 
 Our community is called “Blackwater Park”, like the amazing Opeth album, our website is not responsive and on smartphones and tablets is impossible to use, it’s your job to make it responsive!
 
